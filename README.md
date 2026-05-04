@@ -12,4 +12,4 @@
 安装步骤：
 第一步，下载安装包
 第二步，假设存储安装包的目录在Download，运行sudo apt install ./Download/pycharm*.deb -y
-彩蛋：在浏览器打开这个链接：https://v.douyin.com/Z4yhqxIUJ24/，包让你笑个不停
+彩蛋：在浏览器打开这个链接，包让你笑个不停：https://v.douyin.com/Z4yhqxIUJ24/
